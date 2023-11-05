@@ -1,7 +1,7 @@
 import cv2
 
 # Open the video file
-video_capture = cv2.VideoCapture("minor project/istockphoto-1166698457-640_adpp_is.mp4")  # Update with the path to your input video file
+video_capture = cv2.VideoCapture("minor project/WhatsApp Video 2023-10-31 at 11.27.45.mp4")  # Update with the path to your input video file
 
 while True:
     # Read a frame from the video
